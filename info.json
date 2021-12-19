@@ -1,0 +1,35 @@
+{
+    "botinfo": {
+        "username": "mft.project.nka",
+        "password": "23571113"
+    },
+    "messages": {
+        "positive": [
+            "Nice!",
+            "Cool!",
+            "Awesome!",
+            "Great!",
+            "Positivity always wins!",
+            "Happy to see this post!",
+            "Adorable!",
+            "Adorable Content!",
+            "Very thoughtful post!",
+            "Marvelous!"
+        ],
+        "negative": [
+            "Hope it gets better.",
+            "This happens even to the best of us",
+            "Truly disheartening.",
+            "This is sadenning.",
+            "Not the best place for sharing this tbh",
+            "This is mentally exhausting",
+            "Wish it turned out otherwise",
+            "This made me sad",
+            "How in the world can this happen?!",
+            "Truly sad."
+        ]
+    },
+    "usernames": [
+        "kyle43_____"
+    ]
+}
